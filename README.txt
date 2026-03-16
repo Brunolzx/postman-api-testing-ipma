@@ -1,6 +1,6 @@
 IPMA Weather API Testing with Postman
 
-This project demonstrates API testing using the IPMA Weather API.
+This project demonstrates API testing using the IPMA Weather Public API.
 
 The goal is to validate that the API endpoints respond correctly, return valid data, and meet expected performance requirements.
 
