@@ -9,12 +9,11 @@ https://api.ipma.pt/
 
 ---
 
-Tools and Technologies:
+Tools used:
 
-- Postman
-- JavaScript
-- API Testing
-- JSON Validation
+- Postman;
+- Visual Studio Code;
+- IPMA public API.
 
 ---
 
